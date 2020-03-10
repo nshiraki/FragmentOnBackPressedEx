@@ -2,6 +2,6 @@
 
 onBackPressedDispatcherを利用してFragment内でバックキーイベントをハンドリングできるか検証するためのプログラムです。
 
-アプリを起動するとダミーのFragmentを4枚重ねた状態で起動します。
+アプリを起動するとブランクのFragmentを4枚重ねた状態で起動します。
 
 Fragmentを4枚重ねて表示した状態で、バックキーを押下していくとFragment内でバックキーイベントを検知し手前に表示した順番にFragmentをremoveで削除していきます。
