@@ -1,6 +1,6 @@
 # FragmentOnBackPressedEx
 
-onBackPressedDispatcherを利用してFragment内でバックキーイベントをハンドリングできるか確認したいためだけに作ったプログラムです。
+onBackPressedDispatcherを利用してFragment内でバックキーイベントをハンドリングできるか検証するためのプログラムです。
 
 アプリを起動するとダミーのFragmentを4枚重ねた状態で起動します。
 
